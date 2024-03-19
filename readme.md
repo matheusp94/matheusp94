@@ -1,6 +1,4 @@
-<img
-  src="https://developer.mozilla.org/static/img/favicon144.png"
-  alt="MDN logo" />
+<img src="./static/banner.gif" alt="Texto Alternativo" style="max-height: 100px;">
 
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
 <h3 align="center">Python is my main, data science is my passion, IA is a friend. Making games as a hobbie.</h3>
