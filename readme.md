@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
 <h3 align="center">Python is my main, data science is my passion, IA is a friend. Making games as a hobbie.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/matheus_p94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheus_p94" height="30" width="40" /></a>
 <a href="https://kaggle.com/matheusp940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matheusp940" height="30" width="40" /></a>
@@ -11,7 +11,7 @@
 <a href="https://discord.gg/https://discord.gg/Ds6FXN8a52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ds6FXN8a52" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills:</h3>
+<h2 align="left">Skills:</h2>
   <h3>Languages:</h3>
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></a>
