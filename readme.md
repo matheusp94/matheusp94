@@ -1,5 +1,10 @@
 ![Banner](./static/head.gif)
 
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusp94&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Karen Vitoria github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusp94&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
 <h3 align="center">Python is my main, data science is my passion, IA is a friend. Making games as a hobbie.</h3>
 
