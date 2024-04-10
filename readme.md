@@ -13,7 +13,6 @@
 <a href="https://twitter.com/matheus_p94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheus_p94" height="30" width="40" /></a>
 <a href="https://kaggle.com/matheusp940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matheusp940" height="30" width="40" /></a>
 <a href="https://medium.com/@matheus.p940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matheus.p940" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31lds6ifcxaehsieiyaqwmtbyvlq?si=3e7e5a34991248f6" target="blank"><img align="center" src="https://raw.githubusercontent.com/matheusp94/matheusp94/main/static/Spotify.svg" alt="Matheus Matos" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Ds6FXN8a52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ds6FXN8a52" height="30" width="40" /></a>
 </p>
 
